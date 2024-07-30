@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Bypass
+// @name        AmogusBypassus
 // @namespace   OmegaLolBypasser
 // @match        *://loot-link.com/s?*
 // @match        *://loot-links.com/s?*
