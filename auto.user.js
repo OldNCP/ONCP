@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        amogusbypas
+// @name        AmogusBypassusAutomatus
 // @namespace   Violentmonkey Scripts
 // @match       https://key.getwave.gg/freemium-tasks*
 // @grant       none
